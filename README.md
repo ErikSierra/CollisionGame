@@ -1,6 +1,8 @@
 # CollisionGame
 I created this game for fun using the coding language Python
 
+![Screenshot 2024-04-09 155904](https://github.com/ErikSierra/CollisionGame/assets/120680439/15a1cacc-acea-4ff0-bdfe-ecf4886722fd)
+
 
 Step 1: Download the Game
 
