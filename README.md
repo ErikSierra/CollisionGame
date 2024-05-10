@@ -23,14 +23,16 @@ CollisionGame is a Python game developed for entertainment and educational purpo
 - Open Command Prompt: Press Win + R, type cmd, and press Enter.
 - Navigate to the Game Directory: Use the cd command to change directories to the location where you extracted the game files. For example:
 
-
+  ```bash
     cd C:\Games\MyPythonGame
 - Run the Game: Execute the game script by typing:
-
-- python game_filename.py
+  ```bash
+  python game_filename.py
 - Replace game_filename.py with the actual name of the Python script for the game.
+  
 ### Step 5: Play the Game
 1. Follow the on-screen instructions: Use the keyboard to navigate through the game's menus and interact with the game world.
+
 ### Additional Notes
 - Quitting the Game: You can usually exit the game by closing the game window or pressing a specific key (often Esc or Q).
 - Troubleshooting: If you encounter any issues while running the game, ensure that Python and Pygame are installed correctly and that you are in the correct directory in the Command Prompt.
