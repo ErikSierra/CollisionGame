@@ -3,7 +3,7 @@
 ## Overview
 CollisionGame is a Python game developed for entertainment and educational purposes. It was created as a fun project to demonstrate game development capabilities using Python.
 
-![Game Demonstration](https://imgur.com/a/EYTYNhG)
+![Game Demonstration](https://i.imgur.com/2KPObS7.gif)
 
 ## Installation Instructions
 
@@ -20,7 +20,7 @@ CollisionGame is a Python game developed for entertainment and educational purpo
   ```bash
   pip install pygame
 ### Step 4: Run the Game
-- ** Open Command Prompt: Press Win + R, type cmd, and press Enter.
+- Open Command Prompt: Press Win + R, type cmd, and press Enter.
 - Navigate to the Game Directory: Use the cd command to change directories to the location where you extracted the game files. For example:
 
 
